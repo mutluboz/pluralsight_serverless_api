@@ -1,0 +1,14 @@
+{
+  "name": "ps_azurefunctions",
+  "version": "1.0.0",
+  "description": "azure functions app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mutlu Boz",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.7"
+  }
+}
